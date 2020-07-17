@@ -1,0 +1,8 @@
+What are the Payment procedure
+Payment procedure can be done through cash or by cheque
+Can payment be done in installment
+Yes, Payment can be done in installment
+Do you support UPI
+We support UPI such as GOOGLEPAY, PAYTM for Payment
+Any cash back is available for specific bank
+If Payment is done with xyz bank you will get 10% cash back
